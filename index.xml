@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Thriving</title>
+    <link>https://thrivingresearch.github.io/thriving-site/</link>
+    <description>Recent content on Human Thriving</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thrivingresearch.github.io/thriving-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>index</title>
+      <link>https://thrivingresearch.github.io/thriving-site/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thrivingresearch.github.io/thriving-site/index/</guid>
+      <description>Human Thriving Some humans want to thrive/flourish.
+Our definition of thriving: &amp;ldquo;the experience of joy, contentment, or positive well-being, combined with a sense that one’s life is good, meaningful, and worthwhile.&amp;rdquo; 1
+Thriving is really just a fancy word for high well-being. I love the word thriving. I most associate the word with Good Ventures. 2
+Well-being comprises a) short-term pleasant and unpleasant feelings and b) your overall satisfaction with your life.</description>
+    </item>
+    
+  </channel>
+</rss>
